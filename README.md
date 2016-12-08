@@ -10,7 +10,7 @@ Promise-based nodejs client for [image-minify-api](https://github.com/ingowalthe
 
 ````javascript
 // enter your api_key/api_host 
-const imageMinfier = require('node-image-minify-api')({api_key: 'api_host', api_host: 'api_key'});
+const imageMinfier = require('image-minify-nodejs-client')({api_key: 'api_host', api_host: 'api_key'});
 
 let promise = imageMinfier.compress('/path/to/your/img');
 
