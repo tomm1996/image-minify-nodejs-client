@@ -1,16 +1,16 @@
 {
   "name": "image-minify-nodejs-client",
   "description": "Node.js client for ingowalther/image-minify-api server",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "author": "Tom McLean",
-  "repository": "git@bitbucket.org:tom96/node-img-minify-api.git",
+  "repository": "https://github.com/tomm1996/image-minify-nodejs-client",
   "dependencies": {
-    "request": "^2.76.0"
+    "request": "2.76.0"
   },
   "devDependencies": {
-    "eslint": "^3.9.1",
-    "eslint-config-airbnb-base": "^9.0.0",
-    "eslint-plugin-import": "^2.0.1",
-    "node-glob": "^1.2.0"
+    "eslint": "~3.9.1",
+    "eslint-config-airbnb-base": "~9.0.0",
+    "eslint-plugin-import": "~2.0.1",
+    "node-glob": "~1.2.0"
   }
 }
