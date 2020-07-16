@@ -5,7 +5,7 @@
   "author": "Tom McLean",
   "repository": "https://github.com/tomm1996/image-minify-nodejs-client",
   "dependencies": {
-    "request": "2.84.0"
+    "request": "2.88.0"
   },
   "devDependencies": {
     "eslint": "~3.9.1",
